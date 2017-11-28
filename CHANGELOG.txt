@@ -1,0 +1,29 @@
+Completed by Christopher Carlson
+
+Areas Completed:
+	- repository forked
+	- added all price requirements
+	- added all JS integration items
+	- completed extra credit for "crust affects size choices":
+		- I decided to make deep dish selection hidden when pizza type is set to small. 
+		- I added additional JS to ensure protection of this rule if user re-selects from dropdowns, in replacement
+			of having it automatically adjust to medium. I thought this was a better approach to have a cascading
+			dropdown instead of changing user selection.
+		- I added bootstrap alert to display when pizza size is set to small.
+	- completed extra credit for "site is ugly":
+		- I added background styling (pizza image) to css.
+		- I added your cat that gives total price (tell Sebastian thanks!)
+
+
+I ran into several issues with completing this assignment. First, I know I deviated from jquery and reliance using classes to trigger
+events. I approached it in both directions initially, but did not have full command on jquery to understand how it all works.
+Towards the end, I focused on getting the code functional even though there are issues (such as repeat use of LocalStorage
+and functions not organized as well as I think they should be).
+
+I did review stackoverflow code (cited in order.js) to figure out how to save and load checkboxes. This area is where 
+I spent the most time figuring out how to get it to work.
+
+Lastly, I included a file in my repository called "HW4_example_screenshot.jpg" which is not dependant on the site but
+wanted to show what my final result looks like on page refresh. Towards the end I had to clear my cache several times
+for it to work, and I am not sure if it is an issue with my code vs. cache.
+	
