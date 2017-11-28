@@ -10,3 +10,27 @@ body {
 .hidden {
     display: none !important;
 }
+
+#totalPrice {
+    font-size: 2.75em;
+    font-weight: bold;
+    color: darkblue;
+    background-image: url("sebastian.jpg");
+    height: 300px;
+    width: 1080px;
+}
+
+.home {
+    background-size: 350px auto;
+    background-image: url("Pizza-img.png");
+    background-position: right 500px top 380px;
+    background-repeat: no-repeat;
+}
+
+.order {
+    background-size: 350px auto;
+    background-image: url("Pizza-img.png");
+    background-position: right 10px top 100px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
